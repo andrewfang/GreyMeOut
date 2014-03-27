@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.berkeley.cs160.andrewfang.greymeout.ImageSelectActivity" >
+
+    <item android:id="@+id/action_brush_configure"
+        android:icon="@drawable/ic_action_edit"
+        android:title="@string/brush_configure"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_clear"
+        android:title="@string/clear"
+        android:icon="@drawable/ic_action_discard"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_save"
+        android:title="@string/save"
+        android:icon="@drawable/ic_action_save"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_change_shape"
+        android:title="@string/change_shape"
+        android:icon="@drawable/ic_action_view_as_grid"
+        android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_about"
+        android:title="@string/action_about"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_about"
+        android:showAsAction="ifRoom" />
+
+</menu>

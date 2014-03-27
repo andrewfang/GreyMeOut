@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grey Me Out</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="about_rates">Copyright Fang Industries.  All rights reserved.</string>
+    <string name="image_desc">Paint on me!</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="brush_configure">Configure Brush</string>
+    <string name="change_shape">Change Shape</string>
+    <string name="about_confirm">Cool!</string>
+    <string name="color">Grey -> Color</string>
+    <string name="grey">Color -> Grey</string>
+    <string name="dialog_okay">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+
+    <string-array name="shapes_array">
+        <item>Brush</item>
+        <item>Square</item>
+        <item>Circle</item>
+        <item>Pac-Man</item>
+        <item>Triangle Up</item>
+        <item>Triangle Down</item>
+    </string-array>
+</resources>
